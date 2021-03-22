@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/run"
+        android:title="Run" />
+
+    <item
+        android:id="@+id/clear"
+        android:title="Clear all" />
+
+    <item
+        android:id="@+id/tuts"
+        android:title="PR Tutorials">
+
+    <menu>
+        <item android:id="@+id/lecture1"
+            android:title="Getting started" />
+        <item android:id="@+id/lecture2"
+            android:title="Heading tags" />
+        <item android:id="@+id/lecture3"
+            android:title="Paragraph tags" />
+        <item android:id="@+id/lecture4"
+            android:title="Adding links" />
+        <item android:id="@+id/lecture5"
+            android:title="Adding Buttons" />
+        <item android:id="@+id/lecture6"
+            android:title="Listing items" />
+        <item android:id="@+id/lecture7"
+            android:title="Horizontal Rule" />
+        <item android:id="@+id/lecture8"
+            android:title="CSS Basics" />
+        <item android:id="@+id/lecture9"
+            android:title="CSS Borders" />
+        <item android:id="@+id/lecture10"
+            android:title="CSS Padding" />
+        <item android:id="@+id/lecture11"
+            android:title="CSS Margins" />
+        <item android:id="@+id/lecture12"
+            android:title="Play with CSS" />
+        <item android:id="@+id/lecture13"
+            android:title="Have fun with Fonts" />
+        <item android:id="@+id/lecture14"
+            android:title="CSS Fonts" />
+    </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/add_html"
+        android:title="Add HTML Code" />
+
+
+    <item
+        android:id="@+id/help"
+        android:title="Quick HTML" />
+
+    <item
+        android:id="@+id/snippets"
+        android:title="Code Snippets">
+
+        <menu>
+            <item android:id="@+id/code1"
+                android:title="Text Layout" />
+            <item android:id="@+id/code2"
+                android:title="Button Layout" />
+            <item android:id="@+id/code3"
+                android:title="Paragraph Layout" />
+            <item android:id="@+id/code4"
+                android:title="Adding links" />
+            <item android:id="@+id/code5"
+                android:title="Adding Buttons" />
+            <item android:id="@+id/code6"
+                android:title="Listing items" />
+            <item android:id="@+id/code7"
+                android:title="Horizontal Rule" />
+            <item android:id="@+id/code8"
+                android:title="CSS Basics" />
+            <item android:id="@+id/code9"
+                android:title="CSS Borders" />
+            <item android:id="@+id/code10"
+                android:title="Final Project" />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/assignment"
+        android:title="Code Assignment">
+
+        <menu>
+            <item android:id="@+id/intro"
+                android:title="Intro" />
+            <item android:id="@+id/assign1"
+                android:title="Assignment 1" />
+            <item android:id="@+id/assign2"
+                android:title="Assignment 2" />
+            <item android:id="@+id/assign3"
+                android:title="Assignment 3" />
+            <item android:id="@+id/assign4"
+                android:title="Assignment 4" />
+            <item android:id="@+id/assign5"
+                android:title="Assignment 5" />
+            <item android:id="@+id/assign6"
+                android:title="Assignment 6" />
+            <item android:id="@+id/assign7"
+                android:title="Assignment 7" />
+            <item android:id="@+id/assign8"
+                android:title="Assignment 8" />
+            <item android:id="@+id/assign9"
+                android:title="Assignment 9" />
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/bootstrap"
+        android:title="Integrate Bootstrap" />
+
+
+
+    <item
+        android:id="@+id/save"
+        android:title="Save HTML File" />
+
+    <item
+        android:id="@+id/update"
+        android:title="Check for Update" />
+
+    <item
+        android:id="@+id/close"
+        android:title="Close" />
+</menu>
